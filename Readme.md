@@ -137,4 +137,3 @@ Este projeto é de uso livre e pode ser modificado conforme necessário.
 
 ---
 
-Agora você pode copiar este texto diretamente e colá-lo no GitHub ou em qualquer outro lugar!
